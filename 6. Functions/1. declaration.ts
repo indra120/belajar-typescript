@@ -4,6 +4,7 @@ function helloWorld(): void {
 helloWorld()
 helloWorld()
 
+// Function with return value
 function hiMom(): string {
   return "Hi Mom!"
 }
