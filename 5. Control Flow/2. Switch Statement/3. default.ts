@@ -1,4 +1,4 @@
-let pilihan = "A"
+let pilihan = ""
 
 switch (pilihan) {
   case "A":
@@ -9,4 +9,7 @@ switch (pilihan) {
     break
   case "C":
     console.log("Kamu memilih C")
+    break
+  default:
+    console.log("Pilih salah satu!")
 }
